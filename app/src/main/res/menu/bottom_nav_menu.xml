@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/ic_action_call"
+        android:title=""
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/navigation_location"
+        android:icon="@drawable/ic_action_locationfind"
+        android:title=""
+        android:enabled="true"
+        app:showAsAction="ifRoom"/>
+
+
+
+    <!--
+        <item
+            android:id="@+id/navigation_call"
+            android:icon="@drawable/ic_action_call"
+            android:title="Call"
+            android:enabled="true"
+            app:showAsAction="ifRoom"/>
+
+
+            <item
+                android:id="@+id/navigation_test1"
+                android:icon="@drawable/ic_action_call"
+                android:title="test1"
+                app:showAsAction="ifRoom"/>
+
+            <item
+                android:id="@+id/navigation_test2"
+                android:icon="@drawable/ic_action_call"
+                android:title="test2"
+                app:showAsAction="ifRoom"/>
+
+            <item
+                android:id="@+id/navigation_test3"
+                android:icon="@drawable/ic_action_call"
+                android:title="test3" />
+        -->
+
+</menu>

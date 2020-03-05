@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">   Link Wave</string>
+    <string name="action_settings">Settings</string>
+    <string name="Open_Nav_Drawer">Open Nav Drawer</string>
+    <string name="Close_Nav_Drawer">Close Nav Drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dialog_message">Welcome to Group Chat</string>
+    <string name="dialog_title">Give Group Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
